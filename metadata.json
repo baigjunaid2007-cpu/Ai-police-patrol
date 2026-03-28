@@ -1,0 +1,8 @@
+{
+  "name": "Ai Police Patrol",
+  "description": "An intelligent patrol management and monitoring system for field operations, providing real-time tracking, incident reporting, and location-based oversight for security and maintenance teams.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
